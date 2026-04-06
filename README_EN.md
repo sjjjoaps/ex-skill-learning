@@ -157,13 +157,6 @@ The architecture of this project is directly inspired by **[colleague-skill (同
 
 This project follows the [AgentSkills](https://agentskills.io) open standard, compatible with Claude Code and OpenClaw.
 
-### Recommended Chat Export Tools
-
-These are independent open-source projects. We only adapt their export formats in our parsers:
-
-- **[WeChatMsg](https://github.com/LC044/WeChatMsg)** — WeChat message export (Windows)
-- **[PyWxDump](https://github.com/xaoyaoo/PyWxDump)** — WeChat database decryption & export (Windows)
-- **留痕 (Liuhen)** — WeChat message export (macOS)
 
 ---
 
