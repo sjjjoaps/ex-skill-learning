@@ -44,6 +44,20 @@ pip3 install -r requirements.txt
 
 ---
 
+## 【插入位置：「安装」和「使用」之间，作为新 section】
+ 
+## 环境要求
+ 
+- **Claude Code**：免费安装，需要 Node.js 18+（[安装指南](https://docs.anthropic.com/en/docs/claude-code)）
+- **API 消耗**：创建一个前任 Skill 大约消耗 5k-15k tokens，取决于聊天记录量
+- **付费方式**（二选一）：
+  - Claude Pro / Max 订阅：在订阅额度内使用，无需额外配置
+  - Anthropic API Key：按量付费，需在 Claude Code 中配置 key
+- **替代前端**：也可以使用 [OpenClaw](https://github.com/nicepkg/openclaw) 运行本 Skill
+- **不需要 GPU**，不需要本地模型，不需要 Docker
+ 
+---
+
 ## 使用
 
 在 Claude Code 中输入：
