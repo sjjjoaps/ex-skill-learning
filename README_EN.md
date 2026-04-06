@@ -28,10 +28,10 @@ speaks with their catchphrases, replies in their style, remembers the places you
 ```bash
 # Install to current project
 mkdir -p .claude/skills
-git clone https://github.com/therealXiaomanChu/ex-partner-skill .claude/skills/create-ex
+git clone https://github.com/therealXiaomanChu/ex-skill .claude/skills/create-ex
 
 # Or install globally
-git clone https://github.com/therealXiaomanChu/ex-partner-skill ~/.claude/skills/create-ex
+git clone https://github.com/therealXiaomanChu/ex-skill ~/.claude/skills/create-ex
 ```
 
 ### Dependencies (optional)
